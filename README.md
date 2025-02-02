@@ -1,1 +1,1 @@
-DSA with Java
+Data Structures and Algorithms Learning Through Java
