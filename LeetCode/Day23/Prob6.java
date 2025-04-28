@@ -1,6 +1,5 @@
 package LeetCode.Day23;
 
-import java.util.HashMap;
 
 public class Prob6 {
     public static boolean divideArray(int[] nums) {
