@@ -55,6 +55,7 @@ public class ArrayImplement {
         q.Enqueue(3);
         q.Enqueue(4);
         q.Dequeue();
+        q.Dequeue();
         q.printq();
         
     }
